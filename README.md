@@ -4,13 +4,13 @@ It is recommended to view the diffs locally.
 
 ## Table of Contents
 
-[1.37.2-1.37.3](https://eu4diffs.iscccc.eu.org/1.37.2-1.37.3/)
+[1.37.2-1.37.3](1.37.2-1.37.3)
 
-[1.37.1-1.37.2](https://eu4diffs.iscccc.eu.org/1.37.1-1.37.2/)
+[1.37.1-1.37.2](1.37.1-1.37.2)
 
-[1.36.2-1.37.1](https://eu4diffs.iscccc.eu.org/1.36.2-1.37.1/)
+[1.36.2-1.37.1](1.36.2-1.37.1)
 
-[1.30.4-1.36.2](https://eu4diffs.iscccc.eu.org/1.30.4-1.36.2/)
+[1.30.4-1.36.2](1.30.4-1.36.2)
 
 ## Previous versions diffs
 
