@@ -4,6 +4,8 @@ It is recommended to view the diffs locally.
 
 ## Table of Contents
 
+[1.37.3-1.37.4](1.37.3-1.37.4)
+
 [1.37.2-1.37.3](1.37.2-1.37.3)
 
 [1.37.1-1.37.2](1.37.1-1.37.2)
@@ -23,5 +25,6 @@ Inspired by [eu4-diffs](https://maxice8.github.io/eu4-diffs/), I try to use ```g
 Commands eg:
 
 ```cmd
-git diff HEAD^ map/ > 0.diff | diff2html -i file -F 0.html -- 0.diff
+git diff HEAD^ map/ > index.diff
+diff2html -i file -F index.html -- index.diff
 ```
