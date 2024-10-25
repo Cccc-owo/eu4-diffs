@@ -4,6 +4,8 @@ It is recommended to view the diffs locally.
 
 ## Table of Contents
 
+[1.37.4-1.37.5](1.37.4-1.37.5)
+
 [1.37.3-1.37.4](1.37.3-1.37.4)
 
 [1.37.2-1.37.3](1.37.2-1.37.3)
